@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(195, 219, 240);
+}
+
+h1 {
+    color: #002595;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    font-size: 18px;
+}
+
+select {
+    font-size: 16px;
+    padding: 5px;
+}
+
+input[type="submit"] {
+    font-size: 16px;
+    padding: 5px 10px;
+    background-color: #3252d3;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+img {
+    width: 150px; /* Ajuste o tamanho da imagem conforme desejado */
+    margin: 20px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
